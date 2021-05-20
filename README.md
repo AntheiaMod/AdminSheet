@@ -11,7 +11,7 @@ Instead, since this script was made by mine so it was safe to reveal the source 
 
 # Note
 - This is Left 4 Dead 2 only script. So you need L4D2.
-- This script requires Admin System addon otherwise it won't work.
+- This script requires Admin System addon otherwise it will not work.
 
 # How to install
 Click on Code button on main repository page, Download ZIP, then decompress zip file and paste autoexec.cfg file to your cfg folder (On Windows, it is usually located on `C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg`)
